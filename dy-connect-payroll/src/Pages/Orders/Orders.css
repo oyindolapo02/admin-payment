@@ -1,0 +1,26 @@
+.paginationBttns {
+    background-color: red;
+    border: solid green 2px;
+}
+
+.paginationBttns a {
+    border: solid 2px green;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.paginationBttns a:hover {
+    transition: all linear 0.5s;
+    background-color: rgb(40, 111, 40);
+}
+
+.previousBttns {
+    border: solid yellow 3px;
+}
+
+
+.previousBttns a:hover {
+    transition: all linear 0.5s;
+    background-color: rgb(40, 111, 40);
+}

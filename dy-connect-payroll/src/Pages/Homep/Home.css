@@ -1,0 +1,32 @@
+/* .home {
+    border: solid aqua 2px;
+    height: 100vh;
+    background-color: rgba(245, 245, 245, 0.945);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.centered-home {
+    border: solid yellow 5px;
+    height: 85%;
+    width: 95%;
+}
+
+.all-cards {
+    border: solid black 3px;
+    padding-left: 20px ;
+    padding-right: 20px;
+    height: 60%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} */
+
+/* @media screen and (max-width: 1200px) {
+    .all-cards {
+        font-size: small;
+    }
+} */
